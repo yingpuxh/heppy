@@ -1,0 +1,22 @@
+cd  CMSSW_8_0_11/src/PhysicsTools/HeppyCore/test
+
+
+
+
+create_tree.py is to creat a tree as an example of input
+
+
+
+
+
+simple_example_cfg.py is the configuration python file and everytime I need to edit this file to get the results I want
+
+
+
+
+Running example:
+
+
+python create_tree.py
+    
+heppy  path_of_output/ simple_example_cfg.py
